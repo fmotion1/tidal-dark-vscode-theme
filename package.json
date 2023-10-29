@@ -3,7 +3,7 @@
     "displayName": "Tidal Dark",
     "description": "A sleek dark theme for VS Code.",
     "version": "1.0.0",
-    "publisher": "Jay Soren",
+    "publisher": "futuremotion",
     "license": "MIT",
     "homepage": "https://github.com/fmotion1/tidal-dark-vscode-theme",
     "icon": "./images/icon.png",
