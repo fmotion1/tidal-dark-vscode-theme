@@ -1,0 +1,47 @@
+{
+    "name": "tidal-dark-vscode-theme",
+    "displayName": "Tidal Dark",
+    "description": "A sleek dark theme for VS Code.",
+    "version": "1.0.0",
+    "publisher": "Jay Soren",
+    "license": "MIT",
+    "homepage": "https://github.com/fmotion1/tidal-dark-vscode-theme",
+    "icon": "./images/icon.png",
+    "galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/fmotion1/tidal-dark-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/fmotion1/tidal-dark-vscode-theme/issues"
+	},
+    "engines": {
+		"vscode": "^1.43.0"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+        "Dark Theme",
+		"modern",
+		"dark",
+		"sleek",
+		"blue"
+	],
+    "scripts": {
+        "publish": "vsce publish"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tidal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tidal-dark-vscode-theme.json"
+            }
+        ]
+    }
+}
