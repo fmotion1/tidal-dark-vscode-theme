@@ -4,9 +4,9 @@
 
 This is a sleek and dark VS Code theme.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-<img alt="Visual Studio Marketplace Release Date" src="https://img.shields.io/visual-studio-marketplace/release-date/futuremotion.tidal-dark-vscode-theme?style=flat&logo=visualstudiocode&label=Visual%20Studio%20Marketplace&link=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dfuturemotion.tidal-dark-vscode-theme">
 
+<a href="https://marketplace.visualstudio.com/items?itemName=futuremotion.tidal-dark-vscode-theme">![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)</a>
+[![Badge License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://github.com/fmotion1/tidal-dark-vscode-theme/blob/main/LICENSE)
 
 
 ## Version
